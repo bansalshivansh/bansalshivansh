@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shivansh 👋
 
-<!--
-**bansalshivansh/bansalshivansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on Full Stack Development.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Frontend: React, JavaScript, Tailwind
+- Backend: Node.js, Express
+- Database: PostgreSQL, MySQL
+- Other: Python, Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+Building scalable apps & preparing for SDE roles.
+
+## Projects
+- Hostel Recommender
+- Community Platform
+- Real-time Chat App
