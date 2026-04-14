@@ -1,17 +1,30 @@
-# Hi, I'm Shivansh 👋
+# Hi there 👋 I'm Shivansh Bansal
 
-Software Engineer focused on Full Stack Development.
+## 🚀 About Me
+Software Engineer passionate about building scalable applications, solving real-world problems, and learning modern technologies.
 
-## Tech Stack
-- Frontend: React, JavaScript, Tailwind
-- Backend: Node.js, Express
-- Database: PostgreSQL, MySQL
-- Other: Python, Git, Docker
+## 💻 Tech Stack
+### Frontend
+React.js, JavaScript, HTML, CSS, Tailwind CSS
 
-## Current Focus
-Building scalable apps & preparing for SDE roles.
+### Backend
+Node.js, Express.js
 
-## Projects
-- Hostel Recommender
-- Community Platform
-- Real-time Chat App
+### Databases
+PostgreSQL, MySQL
+
+### Tools
+Git, GitHub, Docker, REST APIs
+
+## 📌 Featured Projects
+- Hostel Recommender Platform
+- Real-Time Chat Application
+- Community Based Web Platform
+- Authentication Systems
+
+## 🌱 Currently Learning
+System Design, DSA, Scalable Architecture, Advanced Backend
+
+## 📫 Connect With Me
+LinkedIn: (your link)
+Email: (optional)
