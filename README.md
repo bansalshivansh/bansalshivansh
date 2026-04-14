@@ -26,5 +26,5 @@ Git, GitHub, Docker, REST APIs
 System Design, DSA, Scalable Architecture, Advanced Backend
 
 ## 📫 Connect With Me
-LinkedIn: (your link)
-Email: (optional)
+LinkedIn: [(link)](https://www.linkedin.com/in/shivansh-bansal-252a47206/)
+Email: shivanshbansal1111@gmail.com
