@@ -25,6 +25,9 @@ Git, GitHub, Docker, REST APIs
 ## 🌱 Currently Learning
 System Design, DSA, Scalable Architecture, Advanced Backend
 
+## 📄 Resume 
+link - https://drive.google.com/drive/u/0/folders/1I50zpnrBaJo6q7nvumFVzOVHJ5JZSFCv
+
 ## 📫 Connect With Me
 LinkedIn: [(link)](https://www.linkedin.com/in/shivansh-bansal-252a47206/)
 Email: shivanshbansal1111@gmail.com
